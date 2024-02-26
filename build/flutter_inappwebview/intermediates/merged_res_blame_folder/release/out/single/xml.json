@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\sanup\\Desktop\\1inMillion-main\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\xml\\provider_paths.xml",
+        "source": "C:\\Users\\sanup\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\flutter_inappwebview-5.7.2+3\\android\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanup\\Desktop\\1inMillion-main\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\xml\\image_share_filepaths.xml",
+        "source": "C:\\Users\\sanup\\.gradle\\caches\\transforms-3\\52bdb465cd3537e0eb13c370deec4479\\transformed\\browser-1.4.0\\res\\xml\\image_share_filepaths.xml"
+    }
+]

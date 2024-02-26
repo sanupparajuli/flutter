@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "600642311246",
+    "firebase_url": "https://inmillion-9636f-default-rtdb.firebaseio.com",
+    "project_id": "inmillion-9636f",
+    "storage_bucket": "inmillion-9636f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600642311246:android:d8fd90dea47b1648991f1f",
+        "android_client_info": {
+          "package_name": "com.one_in_million"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWM63W8OTzbNWeM6MwVN26UgdW0b41lx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

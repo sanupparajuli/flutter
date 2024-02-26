@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://inmillion-9636f-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">600642311246</string>
+    <string name="google_api_key" translatable="false">AIzaSyAWM63W8OTzbNWeM6MwVN26UgdW0b41lx8</string>
+    <string name="google_app_id" translatable="false">1:600642311246:android:d8fd90dea47b1648991f1f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAWM63W8OTzbNWeM6MwVN26UgdW0b41lx8</string>
+    <string name="google_storage_bucket" translatable="false">inmillion-9636f.appspot.com</string>
+    <string name="project_id" translatable="false">inmillion-9636f</string>
+</resources>

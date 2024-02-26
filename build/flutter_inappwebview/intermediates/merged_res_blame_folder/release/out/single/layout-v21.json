@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\sanup\\Desktop\\1inMillion-main\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\sanup\\.gradle\\caches\\transforms-3\\b4d3cee18af88fb704fd306b8b06033e\\transformed\\core-1.8.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanup\\Desktop\\1inMillion-main\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\sanup\\.gradle\\caches\\transforms-3\\b4d3cee18af88fb704fd306b8b06033e\\transformed\\core-1.8.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanup\\Desktop\\1inMillion-main\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\sanup\\.gradle\\caches\\transforms-3\\b4d3cee18af88fb704fd306b8b06033e\\transformed\\core-1.8.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanup\\Desktop\\1inMillion-main\\build\\flutter_inappwebview\\intermediates\\merged_res\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\sanup\\.gradle\\caches\\transforms-3\\b4d3cee18af88fb704fd306b8b06033e\\transformed\\core-1.8.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]
